@@ -7,9 +7,9 @@ AI by Hand exercises ✍️ in Excel
 
 ## Advanced
 * Backpropagation
+* Transformer
 
 ## Coming Soon
-* Transformer
 * Self-Attention
 * Multi Layer Perceptron (MLP)
 * Generative Adversarial Network (GAN)
