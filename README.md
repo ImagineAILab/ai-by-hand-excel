@@ -4,6 +4,7 @@ AI by Hand exercises ✍️ in Excel
 
 ## Basic
 * Softmax
+* LeakyReLU
 
 ## Advanced
 * Backpropagation
