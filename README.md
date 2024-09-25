@@ -9,6 +9,7 @@ AI by Hand exercises ✍️ in Excel
 ## Advanced
 * Backpropagation
 * Transformer
+* Recurrent Neural Network (RNN)
 
 ## Coming Soon
 * Self-Attention
