@@ -11,9 +11,9 @@ AI by Hand exercises ✍️ in Excel
 * Transformer
 * Recurrent Neural Network (RNN)
 * Mamba
+* Self-Attention
 
 ## Coming Soon
-* Self-Attention
 * Multi Layer Perceptron (MLP)
 * Generative Adversarial Network (GAN)
 * more ...
