@@ -7,6 +7,7 @@ AI by Hand exercises ✍️ in Excel
 * LeakyReLU
 
 ## Advanced
+* Multi Layer Perceptron (MLP)
 * Backpropagation
 * Recurrent Neural Network (RNN)
 * Transformer
@@ -14,7 +15,6 @@ AI by Hand exercises ✍️ in Excel
 * Mamba
 
 ## Coming Soon
-* Multi Layer Perceptron (MLP)
 * Generative Adversarial Network (GAN)
 * Autoencoder (AE)
 * Variational Autoencoder (VAE)
