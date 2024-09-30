@@ -2,6 +2,8 @@
 
 AI by Hand exercises ✍️ in Excel
 
+![](gallery.png)
+
 ## Basic
 * Softmax
 * LeakyReLU
