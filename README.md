@@ -10,6 +10,7 @@ AI by Hand exercises ✍️ in Excel
 * Multi Layer Perceptron (MLP)
 * Backpropagation
 * Recurrent Neural Network (RNN)
+* Residual Network (ResNet)
 * Transformer
 * Self-Attention
 * Mamba
@@ -18,7 +19,6 @@ AI by Hand exercises ✍️ in Excel
 * Generative Adversarial Network (GAN)
 * Autoencoder (AE)
 * Variational Autoencoder (VAE)
-* Residual Network (ResNet)
 * U-Net
 * CLIP
 * more ...
