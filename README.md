@@ -1,6 +1,6 @@
 # ai-by-hand-excel
 
-AI by Hand exercises ✍️ in Excel
+AI by Hand ✍️ Exercises in Excel
 
 ![](gallery.png)
 
