@@ -15,11 +15,11 @@ AI by Hand ✍️ Exercises in Excel
 * Residual Network (ResNet)
 * Transformer
 * Self-Attention
+* Autoencoder (AE)
 * Mamba
 
 ## Coming Soon
 * Generative Adversarial Network (GAN)
-* Autoencoder (AE)
 * Variational Autoencoder (VAE)
 * U-Net
 * CLIP
