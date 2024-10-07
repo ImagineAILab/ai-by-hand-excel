@@ -19,6 +19,9 @@ AI by Hand ✍️ Exercises in Excel
 * Autoencoder (AE)
 * Mamba
 
+## Workbook
+1. Dot Product
+
 ## Coming Soon
 * Generative Adversarial Network (GAN)
 * Variational Autoencoder (VAE)
