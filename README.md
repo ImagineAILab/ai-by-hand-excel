@@ -18,6 +18,7 @@ AI by Hand ✍️ Exercises in Excel
 * Self-Attention
 * Autoencoder (AE)
 * Mamba
+* AlphaFold
 
 ## Workbook
 1. Dot Product
