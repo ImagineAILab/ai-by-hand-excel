@@ -23,6 +23,7 @@ AI by Hand ✍️ Exercises in Excel
 ## Workbook
 1. Dot Product
 2. Matrix Multiplication
+3. Linear Layer
 
 ## Coming Soon
 * Generative Adversarial Network (GAN)
