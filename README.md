@@ -14,7 +14,8 @@ AI by Hand ✍️ Exercises in Excel
 * Recurrent Neural Network (RNN)
 * Long Short Term Memory (LSTM)
 * Residual Network (ResNet)
-* Transformer
+* Transformer - Simple
+* Transformer - Full Stack
 * Self-Attention
 * Autoencoder (AE)
 * Mamba
