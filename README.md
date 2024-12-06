@@ -12,7 +12,7 @@ AI by Hand ✍️ Exercises in Excel
 * Multi Layer Perceptron (MLP)
 * Backpropagation
 * Recurrent Neural Network (RNN)
-* Long Short Term Memory (LSTM)
+* Long Short Term Memory (LSTM) (+ Seq2Seq)
 * Residual Network (ResNet)
 * Transformer - Simple
 * Transformer - Full Stack
