@@ -7,6 +7,7 @@ AI by Hand ✍️ Exercises in Excel
 ## Basic
 * Softmax
 * LeakyReLU
+* Temperature
 
 ## Advanced
 * Multi Layer Perceptron (MLP)
