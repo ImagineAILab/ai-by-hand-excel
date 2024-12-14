@@ -18,6 +18,7 @@ AI by Hand ✍️ Exercises in Excel
 * Transformer - Simple
 * Transformer - Full Stack
 * Self-Attention
+* Multihead Attention
 * Autoencoder (AE)
 * Mamba
 * AlphaFold
