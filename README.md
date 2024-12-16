@@ -14,11 +14,12 @@ AI by Hand ✍️ Exercises in Excel
 * Backpropagation
 * Recurrent Neural Network (RNN)
 * Long Short Term Memory (LSTM) (+ Seq2Seq)
+* 🔥 NEW: Extended Long Short Term Memory (xLSTM)
 * Residual Network (ResNet)
 * Transformer - Simple
 * Transformer - Full Stack
 * Self-Attention
-* Multihead Attention
+* 🔥 NEW: Multihead Attention
 * Autoencoder (AE)
 * Mamba
 * AlphaFold
