@@ -14,15 +14,25 @@ AI by Hand ✍️ Exercises in Excel
 * Backpropagation
 * Recurrent Neural Network (RNN)
 * Long Short Term Memory (LSTM) (+ Seq2Seq)
-* 🔥 NEW: Extended Long Short Term Memory (xLSTM)
+* Extended Long Short Term Memory (xLSTM)
 * Residual Network (ResNet)
 * Transformer - Simple
 * Transformer - Full Stack
 * Self-Attention
-* 🔥 NEW: Multihead Attention
+* Multihead Attention
 * Autoencoder (AE)
 * Mamba
 * AlphaFold
+
+## Lectures
+
+### 🔥 NEW: DeepSeek 
+Multi-head Latent Attention + Mixture of Experts
+(blank only)
+
+[View](https://o365coloradoedu-my.sharepoint.com/:x:/g/personal/peye9704_colorado_edu/EfAlZg6tnotMtEb3N0TA_98BWFdAiqD24mc-MqETTDoVUQ?e=dh4Ncq)
+| [Download](lectures/DeepSeek-blank.xlsx)
+![deepseek](assets/deepseek.png)
 
 ## Workbook
 1. Dot Product
